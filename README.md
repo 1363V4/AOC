@@ -1,7 +1,7 @@
 # AOC
 
 - [Advent Of Code](https://adventofcode.com/)
-- Inscription via **profil Github** (recommandé), Reddit, Twitter, Google.
+- Inscription via **profil Github** (recommandé), ou Reddit, Twitter, Google.
 
 # Participants (les 3 L)
 
@@ -11,4 +11,7 @@
 
 # Tips
 
+- Code snippets utiles dans [utils.py](https://github.com/1363V4/AOC/tree/main/utils.py)
+    - typiquement, `from utils import Clock, read_data`
+    - `utils.py` et `data.txt` au même niveau que le script python
 - [Screenshoter du code](https://carbon.now.sh/)
