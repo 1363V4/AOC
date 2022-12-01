@@ -5,9 +5,9 @@
 
 # Participants (les 3 L)
 
-- L-E
-- Laurent
-- Ludovic
+- L-E "1363v4" Gires_____________________2/50
+- Laurent "Lolo" Pardon__________________2/50
+- Ludovic "PhiPhi" Van Egroo_____________0/50
 
 # Tips
 
